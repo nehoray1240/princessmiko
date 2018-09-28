@@ -2,7 +2,7 @@
   "name": "artebotcop",
   "version": "1.0.0",
   "description": "police bot for discord",
-  "main": "copBot.js",
+  "main": "mikoBot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
