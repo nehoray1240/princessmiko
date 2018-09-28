@@ -1,0 +1,2 @@
+node copBot.js
+pause
